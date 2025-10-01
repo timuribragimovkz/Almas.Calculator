@@ -8,25 +8,29 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PIXAV\\.nuget\\packages\\": {}
+    "/Users/timuribragimov/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PIXAV\\RiderProjects\\Almas.Calculator\\Almas.Calculator\\Almas.Calculator.csproj",
+      "projectUniqueName": "/Users/timuribragimov/Desktop/mySources/Almas.Calculator/Almas.Calculator/Almas.Calculator.csproj",
       "projectName": "Almas.Calculator",
-      "projectPath": "C:\\Users\\PIXAV\\RiderProjects\\Almas.Calculator\\Almas.Calculator\\Almas.Calculator.csproj",
-      "packagesPath": "C:\\Users\\PIXAV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PIXAV\\RiderProjects\\Almas.Calculator\\Almas.Calculator\\obj\\",
+      "projectPath": "/Users/timuribragimov/Desktop/mySources/Almas.Calculator/Almas.Calculator/Almas.Calculator.csproj",
+      "packagesPath": "/Users/timuribragimov/.nuget/packages/",
+      "outputPath": "/Users/timuribragimov/Desktop/mySources/Almas.Calculator/Almas.Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PIXAV\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/timuribragimov/Desktop/NuGet.Config",
+        "/Users/timuribragimov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/Blackopgaming/index.json": {},
+        "https://nuget.pkg.github.com/Blackopgaming/index.json": {}
       },
       "frameworks": {
         "net9.0": {
@@ -65,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\PIXAV\\.dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/timuribragimov/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
