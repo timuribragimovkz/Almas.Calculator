@@ -1,0 +1,14 @@
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\bin\Debug\net9.0\Almas.Calculator.exe
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\bin\Debug\net9.0\Almas.Calculator.deps.json
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\bin\Debug\net9.0\Almas.Calculator.runtimeconfig.json
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\bin\Debug\net9.0\Almas.Calculator.dll
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\bin\Debug\net9.0\Almas.Calculator.pdb
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.AssemblyInfoInputs.cache
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.AssemblyInfo.cs
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.dll
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\refint\Almas.Calculator.dll
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.pdb
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.genruntimeconfig.cache
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\ref\Almas.Calculator.dll
