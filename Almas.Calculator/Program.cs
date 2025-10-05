@@ -32,33 +32,27 @@
  {
      Console.WriteLine("Input value is not a number.");
      Environment.Exit(0);
- }
+ } 
  var secondNumberInt = Convert.ToInt32(secondNumberString);
  
- if (operation == "+")
+ switch (operation)
  {
-     var c = firstNumberInt + secondNumberInt;
-     Console.WriteLine($"Result of operation = {c}");
- }
- if (operation == "-")
- {
-     var c = firstNumberInt - secondNumberInt;
-     Console.WriteLine($"Result of operation = {c}");
- }
- if (operation == "*")
- {
-     var c = firstNumberInt * secondNumberInt;
-     Console.WriteLine($"Result of operation = {c}");
- }
- if (operation == "/")
- {
-     if (secondNumberInt == 0)
-     {
-         Console.WriteLine("Input number can't be 0.");
-         Environment.Exit(0);
-     }
-     var c = firstNumberInt / secondNumberInt;
-     Console.WriteLine($"Result of operation = {c}");
+     case "+":
+         var c = firstNumberInt + secondNumberInt;
+         Console.WriteLine($"Result of operation = {c}");
+         break;
+     case "-":
+         c = firstNumberInt - secondNumberInt;
+         Console.WriteLine($"Result of operation = {c}");
+         break;
+     case "*":
+         c = firstNumberInt * secondNumberInt;
+         Console.WriteLine($"Result of operation = {c}");
+         break;
+     case "/":
+         c = firstNumberInt / secondNumberInt;
+         Console.WriteLine($"Result of operation = {c}");
+         break;
  }
 
 
