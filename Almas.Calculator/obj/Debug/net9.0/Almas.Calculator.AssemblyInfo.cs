@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Almas.Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+118b07ff4d59dcee4475208c5e2bd61cc34b673f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4498c02cff0af324a6df696d872cffe026346e45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Almas.Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Almas.Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

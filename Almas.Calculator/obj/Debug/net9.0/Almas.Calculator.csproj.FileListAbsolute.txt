@@ -12,3 +12,4 @@ C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\
 C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.pdb
 C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.genruntimeconfig.cache
 C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\ref\Almas.Calculator.dll
+C:\Users\PIXAV\RiderProjects\Almas.Calculator\Almas.Calculator\obj\Debug\net9.0\Almas.Calculator.sourcelink.json

@@ -15,11 +15,6 @@
  
  Console.WriteLine("Enter the operation.");
  var operation = Console.ReadLine();
- if (operation != "+" && operation != "-" && operation != "*" && operation != "/")
- {
-     Console.WriteLine("Input operation is not valid.");
-     Environment.Exit(0);
- }
  
  Console.WriteLine("Enter the second number: ");
  string secondNumberString = Console.ReadLine();
@@ -52,6 +47,9 @@
      case "/":
          c = firstNumberInt / secondNumberInt;
          Console.WriteLine($"Result of operation = {c}");
+         break;
+     default:
+         Console.WriteLine("Input incorrect operation.");
          break;
  }
 
