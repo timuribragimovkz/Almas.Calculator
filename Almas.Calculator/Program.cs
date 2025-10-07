@@ -14,7 +14,7 @@ if (!firstNumberString.All(char.IsDigit))
 
 var firstNumberInt = Convert.ToInt32(firstNumberString);
 
-Console.WriteLine("Enter the operation.");
+Console.WriteLine("Enter the operation."); 
 
 var operation = Console.ReadLine();
 if (operation != "+" && operation != "-" && operation != "*" && operation != "/")
@@ -32,7 +32,7 @@ if (string.IsNullOrWhiteSpace(secondNumberString))
     
     Environment.Exit(0);
 }
-if (!firstNumberString.All(char.IsDigit))
+if (!secondNumberString.All(char.IsDigit))
 {
     Console.WriteLine("Input value is not a number.");
     Environment.Exit(0);
@@ -40,29 +40,36 @@ if (!firstNumberString.All(char.IsDigit))
 
 var secondNumberInt = Convert.ToInt32(secondNumberString);
 
-if (operation == "+")
+switch (operation)
 {
-    var result = firstNumberInt + secondNumberInt;
-    Console.WriteLine($"Result of operation = {result}");
-}
-if (operation == "-")
-{
-    var c = firstNumberInt - secondNumberInt; //TODO rename variable. this and below ones 'c'
-    Console.WriteLine($"Result of operation = {c}");
-}
-if (operation == "*")
-{
-    var c = firstNumberInt * secondNumberInt;
-    Console.WriteLine($"Result of operation = {c}");
-}
-if (operation == "/")
-{
-    if (secondNumberInt == 0)
+    case "+":
     {
-        Console.WriteLine("Input number can't be 0.");
-        Environment.Exit(0);
+        var result = firstNumberInt + secondNumberInt;
+        Console.WriteLine($"Result of operation = {result}");
+        break;
     }
+    case "-":
+    {
+        var result = firstNumberInt - secondNumberInt;
+        Console.WriteLine($"Result of operation = {result}");
+        break;
+    }
+    case "*":
+    {
+        var result = firstNumberInt * secondNumberInt;
+        Console.WriteLine($"Result of operation = {result}");
+        break;
+    }
+    case "/":
+    {
+        if (secondNumberInt == 0)
+        {
+            Console.WriteLine("Input number can't be 0.");
+            Environment.Exit(0);
+        }
 
-    var c = firstNumberInt / secondNumberInt;
-    Console.WriteLine($"Result of operation = {c}");
+        var result = firstNumberInt / secondNumberInt;
+        Console.WriteLine($"Result of operation = {result}");
+        break;
+    }
 }

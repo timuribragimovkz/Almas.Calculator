@@ -20,7 +20,6 @@
       "outputPath": "/Users/timuribragimov/Desktop/mySources/Almas.Calculator/Almas.Calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/timuribragimov/Desktop/NuGet.Config",
         "/Users/timuribragimov/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +27,6 @@
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/Blackopgaming/index.json": {},
         "https://nuget.pkg.github.com/Blackopgaming/index.json": {}
       },
       "frameworks": {
